@@ -1,2 +1,2 @@
-# poetryclub
+# litsoc-blog
  
